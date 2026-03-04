@@ -8,7 +8,7 @@ In the original game, the player drives continuously along a highway, overtaking
 
 This project is a recreation of Enduro developed in Java, using Swing and AWT (Abstract Window Toolkit) for graphical rendering.
 Developed by:
-Ana Clara and Inácio Araripe (@github)
+Ana Clara and Inácio Araripe
 
 While inspired by the original mechanics, our version introduces a modified scoring system:
 - The player loses immediately when colliding with another car
