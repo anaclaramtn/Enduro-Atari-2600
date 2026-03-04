@@ -36,7 +36,7 @@ This feature includes:
 <img width="700" alt="Captura de tela 2026-03-03 223231" src="https://github.com/user-attachments/assets/0765ab9c-74eb-4edb-a9a6-3d78166bb958" />
 
 ## How to Run the Project ▶ 
-Copy all project files.
-Create a new Java project in IntelliJ IDEA.
-Paste the files into the automatically generated src folder.
-Run the main game class.
+1. Copy all project files.
+2. Create a new Java project in IntelliJ IDEA.
+3. Paste the files into the automatically generated src folder.
+4. Run the main game class.
