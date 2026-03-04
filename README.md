@@ -4,7 +4,9 @@ Enduro is a classic racing game released for the Atari 2600.
 
 In the original game, the player drives continuously along a highway, overtaking a required number of cars before the day ends. As time progresses, environmental changes such as fog, snow, sunlight glare, and nightfall increase the difficulty and reduce visibility.
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/88dd0bdf-8c2c-44d9-872b-5d277868e956" />
+<p align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/88dd0bdf-8c2c-44d9-872b-5d277868e956" />
+</p>
 
 This project is a recreation of Enduro developed in Java, using Swing and AWT (Abstract Window Toolkit) for graphical rendering.
 Developed by:
@@ -19,7 +21,9 @@ The scoring system is continuous:
 - Lower speed → slower score accumulation
 - The goal is to achieve the highest possible score
 
-<img width="700" alt="Captura de tela 2026-03-03 222442" src="https://github.com/user-attachments/assets/3a2d1dcc-bbd9-486a-8553-269bf597e1b6" />
+<p align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/3a2d1dcc-bbd9-486a-8553-269bf597e1b6" />
+</p>
 
 This project was developed based on instructional material focused on building simple games using standard JDK libraries, especially Swing and AWT.
 The main technical references were Asteroids and Space Invaders .
@@ -33,7 +37,9 @@ This feature includes:
 - A mini-form integrated into the Swing window
 - Score saving and ranking display
 
-<img width="700" alt="Captura de tela 2026-03-03 223231" src="https://github.com/user-attachments/assets/0765ab9c-74eb-4edb-a9a6-3d78166bb958" />
+<p align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/0765ab9c-74eb-4edb-a9a6-3d78166bb958" />
+</p>
 
 ## How to Run the Project ▶ 
 1. Copy all project files.
