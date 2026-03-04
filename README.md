@@ -1,10 +1,10 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/87b52132-ecea-4d44-94ea-e5650bfb9758" />## Enduro Atari 2600 – Final Assessment Project for the course T164-54 Object-Oriented Programming, taught by Professor Gilson Pereira.
+## Enduro Atari 2600 – Final Assessment Project for the course T164-54 Object-Oriented Programming, taught by Professor Gilson Pereira.
 
 Enduro is a classic racing game released for the Atari 2600.
 
 In the original game, the player drives continuously along a highway, overtaking a required number of cars before the day ends. As time progresses, environmental changes such as fog, snow, sunlight glare, and nightfall increase the difficulty and reduce visibility.
 
-<img width="320" height="210" alt="image" src="https://github.com/user-attachments/assets/88dd0bdf-8c2c-44d9-872b-5d277868e956" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/88dd0bdf-8c2c-44d9-872b-5d277868e956" />
 
 This project is a recreation of Enduro developed in Java, using Swing and AWT (Abstract Window Toolkit) for graphical rendering.
 Developed by:
@@ -19,7 +19,7 @@ The scoring system is continuous:
 - Lower speed → slower score accumulation
 - The goal is to achieve the highest possible score
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/376c7de4-50d6-429d-9871-ca28851baa6a" />
+<img width="700" alt="Captura de tela 2026-03-03 222442" src="https://github.com/user-attachments/assets/3a2d1dcc-bbd9-486a-8553-269bf597e1b6" />
 
 This project was developed based on instructional material focused on building simple games using standard JDK libraries, especially Swing and AWT.
 The main technical references were Asteroids and Space Invaders .
@@ -33,7 +33,7 @@ This feature includes:
 - A mini-form integrated into the Swing window
 - Score saving and ranking display
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/72cfcdbd-fcc6-4ebb-a353-e8df547eca67" />
+<img width="700" alt="Captura de tela 2026-03-03 223231" src="https://github.com/user-attachments/assets/0765ab9c-74eb-4edb-a9a6-3d78166bb958" />
 
 ## How to Run the Project ▶ 
 Copy all project files.
