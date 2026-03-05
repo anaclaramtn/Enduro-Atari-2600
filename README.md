@@ -1,4 +1,8 @@
 ## Enduro Atari 2600 – Final Assessment Project for the course T164-54 Object-Oriented Programming, taught by Professor Gilson Pereira.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![AWT](https://img.shields.io/badge/AWT-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
 
 Enduro is a classic racing game released for the Atari 2600.
 
